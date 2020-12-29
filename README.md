@@ -1,2 +1,2 @@
-# node_nomules
+# node_modules
 awesome node modules
